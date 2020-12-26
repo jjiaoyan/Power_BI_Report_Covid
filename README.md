@@ -1,1 +1,2 @@
-# Power_BI_Report_Covid
+# Covid Data Analytics BI Report
+![](/screenshot.png)
