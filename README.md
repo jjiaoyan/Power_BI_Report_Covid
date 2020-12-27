@@ -1,2 +1,2 @@
 # Covid Data Analytics BI Report
-![](/screenshot.png)
+![](/data/screenshot.png)
